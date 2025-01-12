@@ -16,5 +16,5 @@ Ensure you have the following installed on your machine:
 pip install inflect
 
 ### Example
-If you enter 1990-01-01 as your date of birth, the application might output:
-Sixteen million five hundred forty-eight thousand two hundred eighty minutes
+- If you enter 1990-01-01 as your date of birth, the application might output:
+- Sixteen million five hundred forty-eight thousand two hundred eighty minutes
